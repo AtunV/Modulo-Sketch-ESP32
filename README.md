@@ -69,5 +69,4 @@ La prueba local del backend con el proyecto `hello_idf` finalizo con `success: t
 
 Las pruebas de integracion y de hardware permanecen pendientes.
 
-## Prueba de edición
-Esta sección es una prueba para aprender a utilizar Git.
+
