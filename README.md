@@ -68,3 +68,6 @@ Una funcion se considera validada solamente despues de ejecutar la prueba corres
 La prueba local del backend con el proyecto `hello_idf` finalizo con `success: true` y `returncode: 0`. Los artefactos identificados fueron `hello_idf.bin`, `bootloader.bin` y `partition-table.bin`.
 
 Las pruebas de integracion y de hardware permanecen pendientes.
+
+## Prueba de edición
+Esta sección es una prueba para aprender a utilizar Git.
